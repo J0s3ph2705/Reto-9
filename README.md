@@ -125,7 +125,7 @@ Realice pruebas para calcular fibonacci con iteración o con recursión. Determi
    Aquí está el link:https://stackoverflow.com/users/23719532/joseph
 <div align='center'>
 <figure> <img src="https://github.com/J0s3ph2705/Reto-9/assets/159032718/c5f0283a-7620-45ff-8705-05f469af445b" alt="" width="600" height="auto"/></br>
-<figcaption><b>Modelo matemático de la comunicación</b></figcaption></figure>
+</figure>
 </div>
 6. Cosas de adultos....ir a [linkedin](https://www.linkedin.com/) y crear perfil
    
